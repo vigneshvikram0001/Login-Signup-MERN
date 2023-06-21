@@ -33,3 +33,4 @@ app.post("/signup", (req, res) => {
 app.listen(3001, () => {
   console.log("Server is running");
 });
+
